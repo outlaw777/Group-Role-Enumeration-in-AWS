@@ -69,8 +69,9 @@ To get detailed information about a role:
 Both groups and roles can have inline policies or managed policies attached. Enumerating these is critical for understanding the permissions they grant.
 
 ## Step 1: List Inline Policies
-
 aws iam list-group-policies --group-name "GroupName"
+
+
 
 
 
